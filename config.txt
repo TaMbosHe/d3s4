@@ -1,6 +1,6 @@
 owner=300306052610523136
-prefix=Ne
-game=Neplay
+prefix=9
+game=8play
 stayinchannel=true
 songinstatus=false
 token=NTM4Njg5MDY2NDA1OTg2MzA0.Dy3f1w.c5WP7cX3BYFF09Y7UpZJbVd6hZY
